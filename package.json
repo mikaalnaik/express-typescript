@@ -6,8 +6,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "nodemon app.ts",
+    "dev": "nodemon ./api/index.ts",
     "start": "node ./api/index.js",
+    "deploy": "vercel deploy --prod",
     "build": "tsc"
   },
   "devDependencies": {
