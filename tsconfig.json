@@ -4,6 +4,6 @@
     "target": "es6",
     "rootDir": "./",
     "esModuleInterop": true,
-    "outDir": "dist",
+    "outDir": "api",
   }
 }

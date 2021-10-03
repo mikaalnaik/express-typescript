@@ -7,7 +7,7 @@
   "private": false,
   "scripts": {
     "dev": "nodemon app.ts",
-    "start": "node ./dist/app.js",
+    "start": "node ./api/index.js",
     "build": "tsc"
   },
   "devDependencies": {
