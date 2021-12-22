@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "nodemon app.ts"
+    "dev": "nodemon src/app.ts"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
